@@ -1,0 +1,40 @@
+body {
+    background-color: coral;
+    margin: 0%;
+    padding: 0%;
+}
+
+.navigationwrapper {
+    width: 100%;
+    background-color:rgb(151, 193, 184);
+    padding: 2%;
+    border-bottom: 10px dotted rgb(3, 57, 47);
+}
+
+a {
+    font-family: 'Yusei Magic', sans-serif;
+    text-shadow: silver;
+    font-weight: 800;
+    text-decoration: none;
+    color: blue;
+    transition: 0.3s;
+}
+
+footer {
+    text-align: left;
+    padding: 2px;
+    background-color:palegoldenrod;
+    color: blue;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+img {
+    width: 100%;
+    border-radius: 5%;  
+}

@@ -1,0 +1,52 @@
+body {
+    background-color: aquamarine;
+    background-image: linear-gradient(315deg, #bbdddd, #8694ab 50%);
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    animation-name: normal;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+}
+
+.aboutbutton {
+    font-size: 20px;
+}
+
+.navigationwrapper {
+    width: 100%;
+    background-color:goldenrod;
+    padding: 1%;
+    border-bottom: 10px dotted khaki;
+}
+
+a {
+  font-family: 'Yusei Magic', sans-serif;
+  text-shadow: 1px;
+  font-weight: 800;
+  text-decoration: none;
+  color: blue;
+  transition: 0.3s;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: black;
+    font-size: 30px;
+}
+
+footer {
+    text-align: left;
+    padding: 2px;
+    background-color: DarkSalmon;
+    color: blue;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+    
+

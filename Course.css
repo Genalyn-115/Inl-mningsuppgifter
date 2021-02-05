@@ -1,0 +1,58 @@
+body {
+  background-color: cyan;
+  background-image: linear-gradient(325deg, red 0%, #879387 );
+  margin: 0%;
+  padding: 0%;
+  animation: normal;
+  animation-iteration-count: infinite;
+  animation-duration: 10s;
+}
+
+.aboutbutton {
+  font-size: 20px;
+}
+
+.navigationwrapper {
+  width: 100%;
+  background-color:rgb(227, 228, 237);
+  padding: 2%;
+  border-bottom: 10px dotted rgb(65, 225, 196);
+}
+
+a {
+  font-family: 'Yusei Magic', sans-serif;
+  text-shadow: silver;
+  font-weight: 800;
+  text-decoration: none;
+  color: blue;
+  transition: 0.3s;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #1abc9c;
+  color: black;
+  font-size: 30px;
+}
+
+.kurser {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: tomato;
+  color: black;
+  border: 2px solid whitesmoke;
+  margin: 20px;
+  padding: 20 px;
+}
+
+footer {
+  text-align: left;
+  padding: 2px;
+  background-color: DarkSalmon;
+  color: blue;
+}
+
+img {
+  width: 30%;
+  border-radius:30%;
+}

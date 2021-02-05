@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255, 255, 0);
+    background-image: linear-gradient(325deg, rgb(0, 255, 217) 0%, #879093 );
+    margin: 0%;
+    padding: 0%;
+    animation: normal;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+}
+
+.aboutbutton {
+    font-size: 20px;
+}
+
+.navigationwrapper {
+    width: 100%;
+    background-color:rgb(151, 193, 184);
+    padding: 2%;
+    border-bottom: 10px dotted rgb(3, 57, 47);
+}
+
+a {
+    font-family: 'Yusei Magic', sans-serif;
+    text-shadow: silver;
+    font-weight: 800;
+    text-decoration: none;
+    color: blue;
+    transition: 0.3s;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: black;
+    font-size: 30px;
+}
+
+footer {
+    text-align: left;
+    padding: 2px;
+    background-color: DarkSalmon;
+    color: blue;
+    }
+
+h2 {
+  color:blue;
+  text-align: left;
+}
+
+h3 {
+    color: beige;
+    text-align: justify;
+}
+   
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
